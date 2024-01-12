@@ -1,6 +1,8 @@
 Relatorio do desafio tecnico:
 
 Tive certas duvidas em relação sobre ter view ,optei em fazer por console aplication.
+  Para rodar o codigo use no terminal php index.php dentro da pasta do projet.
+  Aparecerá opcões para realizar a interaçao com o programa.
 
 Sobre a estrutura do projeto:
   Deixei o index.php limpo somente com o loop para deixar a aplicação de pé o tempo que nescessario ,
